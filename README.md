@@ -4,7 +4,7 @@ This repository contains independent financial analysis projects prepared to sup
 
 ## Projects
 
-### Asseco Poland – Financial Analysis
+### Asseco Poland - Financial Analysis
 - Executive-level financial summary
 - Revenue growth and EBIT margin analysis
 - Cost structure and profitability drivers
